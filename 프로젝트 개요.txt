@@ -1,0 +1,12 @@
+검색
+게시글 추가
+- PostForm
+상세보기(
+- 삭제, 수정버튼, 제목, 내용, 
+게시글 수정
+- PostForm
+
+공통
+- 검색(Search)
+- 게시글 목록(PostList)
+- PostForm(제목,내용,버튼)
